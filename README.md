@@ -37,9 +37,6 @@ After completing a game, you have the option to play again. Follow these steps:
 2. Click on the "Play Again" button to start a new game and challenge yourself with different songs.
 3. The game will reset your score, lives, and progress, allowing you to enjoy the Guess the Song experience again.
 
-## Developer
-Ylaine Rabanera
-
 ## Troubleshooting
 If you encounter issues running the game, check the following:
 - Ensure Python is installed correctly.
